@@ -1,0 +1,3 @@
+[submodule "LearningOS Code/shared/learn_engine"]
+	path = LearningOS Code/shared/learn_engine
+	url = ecs:/srv/git/LESSON-OS.git
