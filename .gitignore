@@ -1,0 +1,26 @@
+# ── 派生 / 缓存：不纳入版本控制 ──────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# Obsidian 插件是 vendored 第三方二进制，不追踪；保留配置以复现环境
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Windows / 编辑器噪声
+Thumbs.db
+desktop.ini
+*~
+*.tmp
+*.bak
+
+# ── git 自身（同步盘防污染）──────────────────────────────────
+.git/
+
+# ── 明确追踪（核心资产）──────────────────────────────────────
+# LearningOS Spec/**    规范与术语（constitution / prd / CONTEXT）
+# LearningOS Code/**    内核代码（modules / shared）
+# LearningOS Users/**   用户数据（错题集 / 复习记录）
+# Project/**            工程规则

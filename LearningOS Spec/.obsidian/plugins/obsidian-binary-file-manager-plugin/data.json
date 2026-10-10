@@ -1,0 +1,26 @@
+{
+  "autoDetection": true,
+  "extensions": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "bmp",
+    "svg",
+    "mp3",
+    "webm",
+    "wav",
+    "m4a",
+    "ogg",
+    "3gp",
+    "flac",
+    "mp4",
+    "webm",
+    "ogv",
+    "pdf"
+  ],
+  "folder": "/",
+  "filenameFormat": "INFO_{{NAME}}_{{EXTENSION:UP}}",
+  "templatePath": "",
+  "useTemplater": false
+}

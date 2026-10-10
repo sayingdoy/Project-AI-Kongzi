@@ -1,0 +1,443 @@
+{
+  "strategy": "chinese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 24,
+  "maxNumberOfWordsAsPhrase": 5,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": true,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^-",
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": true,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "Extras/Templates/其他/dict/dict.md",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Extras/Templates/其他/dict/dict.md",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "=>",
+  "caretLocationSymbolAfterComplement": "$END$",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 0,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "obsidian": {
+      "obsidian": {
+        "internalLink": {
+          "count": 14,
+          "lastUpdated": 1661390981937
+        }
+      }
+    },
+    "article/done": {
+      "article/done": {
+        "frontMatter": {
+          "count": 7,
+          "lastUpdated": 1661780650759
+        }
+      }
+    },
+    "frontmatter": {
+      "frontmatter": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1665058336023
+        }
+      }
+    },
+    "VSCode": {
+      "🤖VSCode": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1661776150732
+        }
+      }
+    },
+    "review": {
+      "review": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1663405389755
+        }
+      }
+    },
+    "notion": {
+      "🤖notion": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1661392207279
+        }
+      }
+    },
+    "linter": {
+      "linter": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1661775359746
+        }
+      }
+    },
+    "MacOS": {
+      "MacOS": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662110514987
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1662110518051
+        }
+      }
+    },
+    "todo/今天": {
+      "todo/今天": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1663241126957
+        }
+      }
+    },
+    "spaced-repetition": {
+      "spaced-repetition": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1661777369391
+        }
+      }
+    },
+    "常青笔记": {
+      "常青笔记": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661269345558
+        }
+      }
+    },
+    "hugo": {
+      "hugo": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661328333088
+        }
+      }
+    },
+    "万事开头难": {
+      "万事开头难": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1661363503305
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661363506624
+        }
+      }
+    },
+    "少数派": {
+      "少数派": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661391909194
+        }
+      }
+    },
+    "书籍": {
+      "书籍": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1665318085222
+        }
+      }
+    },
+    "白嫖": {
+      "白嫖": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661391953082
+        }
+      }
+    },
+    "知乎": {
+      "知乎": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1661392055886
+        }
+      }
+    },
+    "公众号": {
+      "公众号": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1661392069861
+        }
+      }
+    },
+    "论坛": {
+      "论坛": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1661392097157
+        }
+      }
+    },
+    "飞书文档": {
+      "🤖飞书文档": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661392187744
+        }
+      }
+    },
+    "光明": {
+      "光明": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1661709081140
+        }
+      }
+    },
+    "various complements": {
+      "various complements": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661775399545
+        }
+      }
+    },
+    "卡片笔记写作法：如何实现从阅读到写作-申克·阿伦斯": {
+      "卡片笔记写作法：如何实现从阅读到写作-申克·阿伦斯": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661776440757
+        }
+      }
+    },
+    "spaced repetition": {
+      "spaced repetition": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661777373386
+        }
+      }
+    },
+    "uBlock": {
+      "uBlock": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661937433075
+        }
+      }
+    },
+    "google analytics": {
+      "google analytics": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661947184024
+        }
+      }
+    },
+    "obsidian publish 发布": {
+      "obsidian publish 发布": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662036227455
+        }
+      }
+    },
+    "比较优势": {
+      "比较优势": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662039649915
+        }
+      }
+    },
+    "PicGo": {
+      "🤖PicGo": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662378779998
+        }
+      }
+    },
+    "搜狗输入法": {
+      "搜狗输入法": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662539638299
+        }
+      }
+    },
+    "iframe": {
+      "iframe": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1662539753113
+        }
+      }
+    },
+    "水平": {
+      "水平": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1663051393620
+        }
+      }
+    },
+    "习惯养成": {
+      "习惯养成": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1663241896669
+        }
+      }
+    },
+    "流动式框架": {
+      "流动式框架": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663379738896
+        }
+      }
+    },
+    "卡片盒笔记法 - Zettelkasten": {
+      "卡片盒笔记法 - Zettelkasten": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663379981270
+        }
+      }
+    },
+    "咖啡因": {
+      "咖啡因": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1664633534953
+        }
+      }
+    },
+    "乳清蛋白粉": {
+      "乳清蛋白粉": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663403930024
+        }
+      }
+    },
+    "notion-like": {
+      "notion-like": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1663405289980
+        }
+      }
+    },
+    "co-info": {
+      "co-info": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1663475788227
+        }
+      }
+    },
+    "co-tip": {
+      "co-tip": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1663693249311
+        }
+      }
+    },
+    "HIIT": {
+      "HIIT": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663859036576
+        }
+      }
+    },
+    "牛磺酸": {
+      "牛磺酸": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663932214562
+        }
+      }
+    },
+    "applies": {
+      "applies": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1664362369035
+        }
+      }
+    },
+    "日常基础饮食": {
+      "日常基础饮食": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664463084906
+        }
+      }
+    },
+    "基础代谢估算": {
+      "基础代谢估算": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664463476197
+        }
+      }
+    },
+    "肌酸": {
+      "肌酸": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664633493869
+        }
+      }
+    },
+    "BCAA": {
+      "BCAA": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664721248632
+        }
+      }
+    },
+    "168轻断食": {
+      "168轻断食": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665663572979
+        }
+      }
+    }
+  }
+}
