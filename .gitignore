@@ -3,11 +3,11 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Obsidian 插件是 vendored 第三方二进制，不追踪；保留配置以复现环境
-.obsidian/plugins/
-.obsidian/themes/
-.obsidian/workspace*.json
-.obsidian/cache/
+# Obsidian 全部产物不追踪（2026-10-13 Jason 定：插件/主题/配置/workspace 均可ignore）
+# 此前规则为「忽略 plugins/themes/workspace、保留 app.json 等配置以复现环境」，
+# 但相关文件在规则引入前已提交，gitignore 不取消跟踪 → 本次 git rm --cached
+# 全量下架（工作区文件不动，仅出索引）；配置复现改由各端 Obsidian 自带同步负责。
+.obsidian/
 
 # Windows / 编辑器噪声
 Thumbs.db
